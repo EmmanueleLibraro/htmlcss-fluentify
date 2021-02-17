@@ -64,15 +64,19 @@ h4{
 }
 
 /* Nav-center */
-.nav-center li{
+.lista-1 li{
     display: inline-block;
     list-style: none;
+    margin-right: 20px;
 }
 
-.nav-center a{
+
+.lista-1 li:last-child{
+    margin-right: 0;
+}
+
+
+.lista-1 a {
     text-decoration: none;
     color: #fff;
-    margin-left: 20px;
-    font-size: 11px;
 }
-
