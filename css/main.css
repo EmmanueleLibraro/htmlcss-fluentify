@@ -100,6 +100,8 @@ h4{
 .btn.btn-green{
     background: #7cbb01;
     border: transparent;
+    text-decoration: none;
+    color: #fff;
 }
 
 .section-block{
@@ -114,6 +116,11 @@ h4{
 .section-block .container{
     position: relative;
     height: 100%;
+}
+
+.section-block .text a{
+    width: 40%;
+    min-width: auto;
 }
 
 .section-block .text h1{
@@ -137,6 +144,14 @@ h4{
 
 /* Middle */
 .middle{
+    text-align: center;
     height: 100px;
     background-color: #DCDCDC;
+}
+
+.text-middle{
+    color: black;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    font-size: 25px;
 }
