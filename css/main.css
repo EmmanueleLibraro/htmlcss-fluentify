@@ -176,6 +176,20 @@ h4{
 
 .linea{
     width: 25%;
-    text-align: center;
+    margin: 0 auto;
     color: gray;
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+
+ .linea2{
+    width: 25%;
+    margin: 0 auto;
+    color: gray;
+    margin-top: 45px;
+    margin-bottom: 20px;
+}
+
+.paragrafo{
+    margin-bottom: 10px;
 }
