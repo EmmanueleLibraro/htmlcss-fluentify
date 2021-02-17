@@ -1,3 +1,4 @@
+/* Style */
 *{
     padding: 0;
     margin: 0;
@@ -101,7 +102,7 @@ h4{
     border: transparent;
 }
 
-.container2{
+.section-block{
     height: 480px;
     background-image: url(../img/background-header.png);
     background-color: #0d325a;
@@ -110,7 +111,8 @@ h4{
     background-position: 115% 110%;
 }
 
-.section-block .container2{
+.section-block .container{
     position: relative;
     height: 100%;
+    background: black;
 }
