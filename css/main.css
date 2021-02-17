@@ -109,3 +109,8 @@ h4{
     background-repeat: no-repeat;
     background-position: 115% 110%;
 }
+
+.section-block .container2{
+    position: relative;
+    height: 100%;
+}
