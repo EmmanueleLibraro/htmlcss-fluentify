@@ -30,6 +30,17 @@ h4{
     background-color: #0d325a;
 }
 
+/* Bottone */
+.btn{
+    display: inline-block;
+    min-width: 100%;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    padding: 10px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
 /* Clearfix */
 .clearfix::after{
     content: '';
@@ -75,8 +86,26 @@ h4{
     margin-right: 0;
 }
 
-
+/* Lista-2 */
 .lista-1 a {
     text-decoration: none;
     color: #fff;
+}
+
+.main-header a.btn{
+    line-height: 12px;
+}
+
+.btn.btn-green{
+    background: #7cbb01;
+    border: transparent;
+}
+
+.container2{
+    height: 480px;
+    background-image: url(../img/background-header.png);
+    background-color: #0d325a;
+    background-size: 1000px;
+    background-repeat: no-repeat;
+    background-position: 115% 110%;
 }
