@@ -10,6 +10,7 @@ body{
     font-size: 16px;
     color: #8b8b8b;
 }
+    
 
 h1,
 h2,
@@ -190,6 +191,7 @@ h4{
     margin-bottom: 20px;
 }
 
-.paragrafo{
-    margin-bottom: 10px;
+/* Linea-prefooter */
+.linea-prefooter{
+    margin: 10px;
 }
