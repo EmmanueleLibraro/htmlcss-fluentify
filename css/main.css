@@ -139,6 +139,7 @@ h4{
 
 }
 
+/* Divide 50-50 il container */
 .w-50{
     width: 50%;
 }
@@ -195,6 +196,7 @@ h4{
 /* Linea-prefooter */
 .linea-prefooter{
     margin: 10px;
+    margin-top: 20px;
 }
 
 /* Help */
@@ -214,4 +216,34 @@ h4{
     text-transform: uppercase;
     color: #fff;
     cursor: pointer;
+}
+
+/* Parte sinistra main-footer */
+.container .immagine-mountain{
+    width: 400px;
+}
+
+/* Parte destra main-footer */
+.text-piano{
+    color: black;
+    font-size: 25px;
+}
+
+/* Testo-2 */
+.container .text-2{
+    padding-top: 20px;
+}
+
+
+/* Testo-3 */
+.container .text-3{
+    width: 235px;
+    padding-top: 20px;
+    color: #6495ED;
+    border-bottom: 1px solid #6495ED;
+}
+
+/* Calcatura scritta */
+.fluentify{
+    color: black;
 }
