@@ -196,3 +196,22 @@ h4{
 .linea-prefooter{
     margin: 10px;
 }
+
+/* Help */
+.help{
+    position: fixed;
+    top: 94%;
+    right: 15%;
+    display: inline-block;
+    margin: 15px;
+    list-style: none;
+    width: 70px;
+    height: 50px;
+    background: #7cbb01;
+    border-radius: 5px 5px 0 0;
+    line-height: 50px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #fff;
+    cursor: pointer;
+}
