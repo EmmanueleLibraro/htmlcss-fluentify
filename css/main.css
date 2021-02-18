@@ -187,11 +187,9 @@ h4{
 
  .linea2{
     width: 25%;
-    margin: 0 auto;
+    margin: 30px auto;
     color: gray;
-    margin-top: 45px;
-    margin-bottom: 20px;
-}
+ }
 
 /* Linea-prefooter */
 .linea-prefooter{
@@ -237,10 +235,14 @@ h4{
 
 /* Testo-3 */
 .container .text-3{
-    width: 235px;
+    display: inline-block;
     padding-top: 20px;
     color: #6495ED;
-    border-bottom: 1px solid #6495ED;
+    text-decoration: underline;
+}
+
+.doppia-colonna{
+    padding: 40px;
 }
 
 /* Calcatura scritta */
@@ -263,6 +265,7 @@ h4{
     width: 40%;
 }
 
+/* Bottone-footer */
 .bottone-footer{
     padding: 10px;
     width: 20px;
